@@ -1,2 +1,1 @@
-# pot8ohead.github.io
-[site link](https://pot8ohead.github.io/)
+ # [fot80.github.io](https://fot8o.github.io/)
